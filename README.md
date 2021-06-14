@@ -1,2 +1,1 @@
-# arduino
-Projects developed at college
+# Arduino based projects
